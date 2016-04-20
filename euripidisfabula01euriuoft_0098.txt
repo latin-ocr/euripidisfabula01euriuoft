@@ -1,0 +1,27 @@
+Notarum index.
+
+Β = cod. Vaticanus 909.
+B¹ = manus prima. b = manus secunda.
+
+S = consensus librorum:
+L = cod. Laurentian. 32, ⁶2.
+
+L¹ = manus prima. 1 = manus secunda et tertia.
+P = cod. Palatia. 287.
+Ρι = manus prima. p = manns recentior.
+
+ 
+
+a = cod. Parisinus 2713.
+a¹ = manus prima. α’ = manus secunda.
+a³ = complures manus recentiore&
+
+C = cod. Havniensis 417.
+
+c = cod. Laurentianus 31, 10.
+
+d = cod. Laurentianus 31, 15.
+
+r = reliqui libri (solis RSa respectis).
+z = litera vel accentus erasus.
+
